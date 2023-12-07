@@ -1,19 +1,19 @@
 {
 	"MetadataType": "Table",
-	"SourceSystemId": "ABC",
-	"TableName": "ABC",
-	"TableDescription": "ABC",
-	"DataClassification": "ABC",
-	"Load Strategy": "ABC",
+	"SourceSystemId": "XYZ",
+	"TableName": "XYZ",
+	"TableDescription": "XYZ",
+	"DataClassification": "XYZ",
+	"Load Strategy": "XYZ",
 	"SourceDataInterfaceDetails": [{
 		"DataFrequency": 5,
-		"DataFileFormat": "ABC",
-		"DataLandingPath": "ABC"
+		"DataFileFormat": "XYZ",
+		"DataLandingPath": "XYZ"
 	}],
 	"Table Schema": [{
-		"ColumnName": "ABC",
-		"ColumnDataType": "ABC",
-		"Nullable": "ABC",
-		"DataClassification": "ABC"
+		"ColumnName": "XYZ",
+		"ColumnDataType": "XYZ",
+		"Nullable": "XYZ",
+		"DataClassification": "XYZ"
 	}]
 }
