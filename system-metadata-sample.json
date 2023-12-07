@@ -15,7 +15,8 @@
 	"SourceSystemSupportEmail": "suport@unicorn.com",
 	"SourceDataInterfacesDetails": [{
 		"DataFrequencyDays": 14,
-		"DataFileFormat": "avro"
+		"DataFileFormat": "avro",
+		"somethingNew": "yes"
 	}],
 	"DataClassification": "Confidential",
 	"DataRetentionPeriodDays": 45
