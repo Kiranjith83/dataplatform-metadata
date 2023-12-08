@@ -1,19 +1,19 @@
 {
 	"MetadataType": "Table",
-	"SourceSystemId": "XYZ",
-	"TableName": "XYZ",
-	"TableDescription": "XYZ",
-	"DataClassification": "XYZ",
-	"Load Strategy": "XYZ",
+	"SourceSystemId": "WWW",
+	"TableName": "WWW",
+	"TableDescription": "WWW",
+	"DataClassification": "WWW",
+	"Load Strategy": "WWW",
 	"SourceDataInterfaceDetails": [{
 		"DataFrequency": 5,
-		"DataFileFormat": "XYZ",
-		"DataLandingPath": "XYZ"
+		"DataFileFormat": "WWW",
+		"DataLandingPath": "WWW"
 	}],
 	"Table Schema": [{
-		"ColumnName": "XYZ",
-		"ColumnDataType": "XYZ",
-		"Nullable": "XYZ",
-		"DataClassification": "XYZ"
+		"ColumnName": "WWW",
+		"ColumnDataType": "WWW",
+		"Nullable": "WWW",
+		"DataClassification": "WWW"
 	}]
 }
