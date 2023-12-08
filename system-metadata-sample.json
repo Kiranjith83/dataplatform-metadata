@@ -12,7 +12,7 @@
 		"FullName": "testbambooJoeDoe",
 		"Email": "bnboojoedoe@unicorn.com"
 	}],
-	"SourceSystemSupportEmail": "suport@unicorn.com",
+	"SourceSystemSupportEmail": "suportjs@unicorn.com",
 	"SourceDataInterfacesDetails": [{
 		"DataFrequencyDays": 14,
 		"DataFileFormat": "avro",
