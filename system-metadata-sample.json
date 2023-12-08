@@ -1,6 +1,6 @@
 {
 	"MetadataType": "System",
-	"OrganisationEntity": "Unicorn",
+	"OrganisationEntity": "testUnicorn",
 	"SourceSystemId": "Unicorn123",
 	"SourceSystemName": "UnicornABC",
 	"SourceSystemDescription": "Unicorn Data",
