@@ -19,5 +19,5 @@
 		"somethingNew": "yes"
 	}],
 	"DataClassification": "Confidential",
-	"DataRetentionPeriodDays": 40
+	"DataRetentionPeriodDays": 45
 }
